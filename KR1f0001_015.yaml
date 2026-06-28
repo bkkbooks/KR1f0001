@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1f0001/tls/v1/juan/15
+seq: 15
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 諫諍章曾子曰若夫慈愛恭敬安親揚名則聞命矣敢問子從父之令可謂孝乎子曰是何言與是何言與昔者天子有爭臣七人雖無道不失其天下諸侯有爭臣五人雖無道不失其國大夫有爭臣三人雖無道不失其家士有爭友則身不離於令名父有爭子則身不陷於不義故當不義則子不可以不爭於父臣不可以不爭於君故當不義則爭之從父之令又焉得為孝乎
+  hash: sha256:dcf7488ea22fa415bae401de79ea70a5859368906cb4285297f8bca706ae52f8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1f0001_tls_015-1a.3-h}
+metadata:
+  title: 孝經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1f0001.xml
+hash: sha256:ae56e3990712506ec5a2a41566e0396f0eacf6fd7388a9f918531eb4da6e28d9

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1f0001/tls/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 事君章子曰君子之事上也進思盡忠退思補過將順其美匡救其惡故上下能相親也詩云心乎愛矣遐不謂矣中心藏之何日忘之
+  hash: sha256:fb654b410181ff70b2b76b5fe5cfeb058d2468727722f97f0f2173a1af6a2d06
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1f0001_tls_017-1a.3-h}
+metadata:
+  title: 孝經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1f0001.xml
+hash: sha256:8e92ed8648eb981e7cd1e7415464789d3c04ae7f8cb7ac97a48c4edaa10afbf0

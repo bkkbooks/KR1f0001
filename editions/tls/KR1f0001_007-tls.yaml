@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1f0001/tls/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三才章曾子曰甚哉孝之大也子曰夫孝天之經也地之義也民之行也天地之經而民是則之則天之明因地之利以順天下是以其教不肅而成其政不嚴而治先王見教之可以化民也是故先之以博愛而民莫遺其親陳之以德義而民興行先之以敬讓而民不爭導之以禮樂而民和睦示之以好惡而民知禁詩云赫赫師尹民具爾瞻
+  hash: sha256:14751721dedfca8c371ea6441ba0cb6550cce95461712420cf4c0547f07d0a5f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1f0001_tls_007-1a.3-h}
+metadata:
+  title: 孝經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1f0001.xml
+hash: sha256:e08a42ed5aeae38cbaedab585a839c556ddcdd0650f1a00d41707149d4e68f7d

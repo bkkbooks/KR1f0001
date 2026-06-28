@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1f0001/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 廣揚名章子曰君子之事親孝故忠可移於君事兄悌故順可移於長居家理故治可移於官是以行成於內而名立於後世矣
+  hash: sha256:7a04e3aa10817f0a96bf111f98624328956cf006eb4bee37d10b3a2c20c9340a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1f0001_tls_014-1a.3-h}
+metadata:
+  title: 孝經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1f0001.xml
+hash: sha256:7e147a413897ad9a7f7aeb2f64391de57e57c20b8a4212827258e02599c7dcbb

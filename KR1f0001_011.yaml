@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1f0001/tls/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五刑章子曰五刑之屬三千而罪莫大於不孝要君者無上非聖人者無法非孝者無親此大亂之道也
+  hash: sha256:592f81a4d14d9b7a216a5d0e100a8c8d91617bae0c00d1fbce6c134faff7bfb4
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1f0001_tls_011-1a.3-h}
+metadata:
+  title: 孝經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1f0001.xml
+hash: sha256:45c25780a7c6f00544a4dffc6642558356980b6da1723be38d2a8d27cca8abc5

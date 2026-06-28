@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1f0001/tls/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孝治章子曰昔者明王之以孝治天下也不敢遺小國之臣而況於公侯伯子男乎故得萬國之歡心以事其先王治國者不敢侮於鰥寡而況於士民乎故得百姓之歡心以事其先君治家者不敢失於臣妾而況於妻子乎故得人之歡心以事其親夫然故生則親安之祭則鬼享之是以天下和平災害不生禍亂不作故明王之以孝治天下也如此詩云有覺德行四國順之
+  hash: sha256:712e2d201db34e1ad36a5eb3bbdf2e35dc4d75d3a27f3079f8a00b67d2eb0962
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1f0001_tls_008-1a.3-h}
+metadata:
+  title: 孝經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1f0001.xml
+hash: sha256:f89f41b3542ea2a06bb492100f041c84637351713715d2daef326e5fd0fb8375

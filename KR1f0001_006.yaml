@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1f0001/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 庶人章用天之道分地之利謹身節用以養父母此庶人之孝也故自天子至於庶人孝無終始而患不及者未之有也
+  hash: sha256:8becdcb2a0895cd6eb87dbcf96529f24499983da83a4537324ea81fa933d90a1
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1f0001_tls_006-1a.3-h}
+metadata:
+  title: 孝經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1f0001.xml
+hash: sha256:c15730fe9b90e2631e763ccf42fc82af26be088d695525b332faa6097f7f5a44

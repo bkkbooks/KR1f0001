@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1f0001/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卿大夫章非先王之法服不敢服非先王之法言不敢道非先王之德行不敢行是故非法不言非道不行口無擇言身無擇行言滿天下無口過行滿天下無怨惡三者備矣然後能守其宗廟蓋卿大夫之孝也詩云夙夜匪懈以事一人
+  hash: sha256:8078b881c4d82be985f8613df1689b06bbca3a05a97bfb3bb4874b56fa1edaf9
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1f0001_tls_004-1a.3-h}
+metadata:
+  title: 孝經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1f0001.xml
+hash: sha256:31f42ccdf19b4f09f838ec7c5d2a5e8c516cfe53bbf411073520f0943d9964c4

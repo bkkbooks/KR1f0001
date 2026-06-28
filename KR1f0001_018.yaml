@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1f0001/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 喪親章子曰孝子之喪親也哭不偯禮無容言不文服美不安聞樂不樂食旨不甘此哀戚之情也三日而食教民無以死傷生毀不滅性此聖人之政也喪不過三年示民有終也為之棺椁衣衾而舉之陳其簠簋而哀戚之劈踊哭泣哀以送之卜其宅兆而安措之為之宗廟以鬼享之春秋祭祀以時思之生事愛敬死事哀戚生民之本盡矣死生之義備矣孝子之事親終矣
+  hash: sha256:399cc0848164c9e2ec7542b957c0f04898b8d3004284f7363d1f12fbb5fcd563
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1f0001_tls_018-1a.3-h}
+metadata:
+  title: 孝經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1f0001.xml
+hash: sha256:66a2d14d1d729d54af420d91665df923a05c8070ecb52a491ad850a02f33781c

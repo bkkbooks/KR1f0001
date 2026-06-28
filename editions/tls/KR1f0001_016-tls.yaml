@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1f0001/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 感應章子曰昔者明王事父孝故事天明事母孝故事地察長幼順故上下治天地明察神明彰矣故雖天子必有尊也言有父也必有先也言有兄也宗廟致敬不忘親也脩身慎行恐辱先也宗廟致敬鬼神著矣孝悌之至通於神明光于四海無所不通詩云自西自東自南自北無思不服
+  hash: sha256:48534d5d9ccebe0cf02e1b2754321e7744cc15d91838922e05fa5e697c3fa36d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1f0001_tls_016-1a.3-h}
+metadata:
+  title: 孝經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1f0001.xml
+hash: sha256:297f94dad0e7cf8063084d86250b8af776030fb14e8d57d825411d4285c0fb94

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1f0001/tls/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開宗明義章仲尼居曾子侍子曰先王有至德要道以順天下民用和睦上下無怨汝知之乎曾子避席曰參不敏何足以知之子曰夫孝德之本也教之所由生也復坐吾語汝身體髮膚受之父母不敢毀傷孝之始也立身行道揚名於後世以顯父母孝之終也夫孝始於事親中於事君終於立身大雅云無念爾祖聿修厥德
+  hash: sha256:9bdf18fc7b4209e5a62e720b78ce3ac854647457c3e9a4a12eb8d5b50be91fde
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1f0001_tls_001-1a.3-h}
+metadata:
+  title: 孝經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1f0001.xml
+hash: sha256:a1f151224e2832eb63ce0b0a3e934162de3bffe27d0ab7134a99a509a040e892

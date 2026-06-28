@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1f0001/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天子章子曰愛親者不敢惡於人敬親者不敢慢於人愛敬盡於事親而德教加於百姓刑于四海蓋天子之孝也甫刑云一人有慶兆民賴之
+  hash: sha256:41f6e2579b0ffd8111e1549664e7b0bc35826117dd7509c250dafe4f46ecbe15
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1f0001_tls_002-1a.3-h}
+metadata:
+  title: 孝經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1f0001.xml
+hash: sha256:a67c455f43cd25773361122a6c113e99446ac680dbed3d6d77df0d94b2e72d81

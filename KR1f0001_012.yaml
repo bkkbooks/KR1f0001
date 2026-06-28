@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1f0001/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 廣要道章子曰教民親愛莫善於孝教民禮順莫善於悌移風易俗莫善於樂安上治民莫善於禮禮者敬而已矣故敬其父則子悅敬其兄則弟悅敬其君則臣悅敬一人而千萬人悅所敬者寡而悅者衆此之謂要道也
+  hash: sha256:725bc709a3c37f90b7ab25cacac693b98a695f9fb47b57de0dad36fd4483e4ab
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1f0001_tls_012-1a.3-h}
+metadata:
+  title: 孝經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1f0001.xml
+hash: sha256:f426f3b78f0c9d393d5c60cc62f9f62c3d8e0bbba72ee9310e2da714d4b4ffee

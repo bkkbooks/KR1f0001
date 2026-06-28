@@ -1,0 +1,81 @@
+canonical_identifier: bkk:krp/KR1f0001/bkk/v1/markers/16
+seq: 16
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR1f0001_tls_016-1a.1}
+  - {type: xml-element, offset: 0, content: '', id: KR1f0001_tls_016-bkkxmlele1, name: p, role: close}
+  - {type: punctuation, offset: 0, content: 《, id: KR1f0001_tls_016-bkkpn1}
+  - {type: punctuation, offset: 3, content: 》, id: KR1f0001_tls_016-bkkpn2}
+  - {type: xml-element, offset: 3, content: '', id: KR1f0001_tls_016-bkkxmlele2, name: p, role: open}
+  - {type: xml-element, offset: 3, content: '', id: KR1f0001_tls_016-bkkxmlele3, name: p, role: close}
+  - {type: xml-element, offset: 3, content: '', id: KR1f0001_tls_016-bkkxmlele4, name: p, role: open}
+  - {type: 'tls:seg', offset: 3, content: '', id: KR1f0001_tls_016-1a.3}
+  - {type: punctuation, offset: 5, content: ：, id: KR1f0001_tls_016-bkkpn3}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR1f0001_tls_016-1a.4}
+  - {type: punctuation, offset: 5, content: 「, id: KR1f0001_tls_016-bkkpn4}
+  - {type: punctuation, offset: 12, content: ，, id: KR1f0001_tls_016-bkkpn5}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR1f0001_tls_016-1a.5}
+  - {type: punctuation, offset: 16, content: 。, id: KR1f0001_tls_016-bkkpn6}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR1f0001_tls_016-1a.6}
+  - {type: punctuation, offset: 19, content: ，, id: KR1f0001_tls_016-bkkpn7}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR1f0001_tls_016-1a.7}
+  - {type: punctuation, offset: 23, content: 。, id: KR1f0001_tls_016-bkkpn8}
+  - {type: 'tls:seg', offset: 23, content: '', id: KR1f0001_tls_016-1a.8}
+  - {type: punctuation, offset: 26, content: ，, id: KR1f0001_tls_016-bkkpn9}
+  - {type: 'tls:seg', offset: 26, content: '', id: KR1f0001_tls_016-1a.9}
+  - {type: punctuation, offset: 30, content: 。, id: KR1f0001_tls_016-bkkpn10}
+  - {type: 'tls:seg', offset: 30, content: '', id: KR1f0001_tls_016-1a.10}
+  - {type: punctuation, offset: 34, content: ，, id: KR1f0001_tls_016-bkkpn11}
+  - {type: 'tls:seg', offset: 34, content: '', id: KR1f0001_tls_016-1a.11}
+  - {type: punctuation, offset: 38, content: 。, id: KR1f0001_tls_016-bkkpn12}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR1f0001_tls_016-1a.12}
+  - {type: punctuation, offset: 42, content: ，, id: KR1f0001_tls_016-bkkpn13}
+  - {type: punctuation, offset: 46, content: ，, id: KR1f0001_tls_016-bkkpn14}
+  - {type: 'tls:seg', offset: 46, content: '', id: KR1f0001_tls_016-1a.13}
+  - {type: punctuation, offset: 50, content: ；, id: KR1f0001_tls_016-bkkpn15}
+  - {type: punctuation, offset: 54, content: ，, id: KR1f0001_tls_016-bkkpn16}
+  - {type: xml-element, offset: 54, content: '', id: KR1f0001_tls_016-bkkxmlele5, name: p, role: close}
+  - {type: xml-element, offset: 54, content: '', id: KR1f0001_tls_016-bkkxmlele6, name: p, role: open}
+  - {type: 'tls:seg', offset: 54, content: '', id: KR1f0001_tls_016-1a.14}
+  - {type: punctuation, offset: 58, content: 。, id: KR1f0001_tls_016-bkkpn17}
+  - {type: 'tls:seg', offset: 58, content: '', id: KR1f0001_tls_016-1a.15}
+  - {type: punctuation, offset: 62, content: ，, id: KR1f0001_tls_016-bkkpn18}
+  - {type: 'tls:seg', offset: 62, content: '', id: KR1f0001_tls_016-1a.16}
+  - {type: punctuation, offset: 66, content: 。, id: KR1f0001_tls_016-bkkpn19}
+  - {type: 'tls:seg', offset: 66, content: '', id: KR1f0001_tls_016-1a.17}
+  - {type: substitution, offset: 66, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
+  - {type: punctuation, offset: 70, content: ，, id: KR1f0001_tls_016-bkkpn20}
+  - {type: 'tls:seg', offset: 70, content: '', id: KR1f0001_tls_016-1a.18}
+  - {type: punctuation, offset: 74, content: 。, id: KR1f0001_tls_016-bkkpn21}
+  - {type: 'tls:seg', offset: 74, content: '', id: KR1f0001_tls_016-1a.19}
+  - {type: punctuation, offset: 78, content: ，, id: KR1f0001_tls_016-bkkpn22}
+  - {type: 'tls:seg', offset: 78, content: '', id: KR1f0001_tls_016-1a.20}
+  - {type: punctuation, offset: 82, content: 。, id: KR1f0001_tls_016-bkkpn23}
+  - {type: xml-element, offset: 82, content: '', id: KR1f0001_tls_016-bkkxmlele7, name: p, role: close}
+  - {type: xml-element, offset: 82, content: '', id: KR1f0001_tls_016-bkkxmlele8, name: p, role: open}
+  - {type: 'tls:seg', offset: 82, content: '', id: KR1f0001_tls_016-1a.21}
+  - {type: punctuation, offset: 86, content: ，, id: KR1f0001_tls_016-bkkpn24}
+  - {type: 'tls:seg', offset: 86, content: '', id: KR1f0001_tls_016-1a.22}
+  - {type: punctuation, offset: 90, content: ，, id: KR1f0001_tls_016-bkkpn25}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR1f0001_tls_016-1a.23}
+  - {type: punctuation, offset: 94, content: ，, id: KR1f0001_tls_016-bkkpn26}
+  - {type: 'tls:seg', offset: 94, content: '', id: KR1f0001_tls_016-1a.24}
+  - {type: punctuation, offset: 98, content: 。, id: KR1f0001_tls_016-bkkpn27}
+  - {type: 'tls:seg', offset: 98, content: '', id: KR1f0001_tls_016-1a.25}
+  - {type: punctuation, offset: 98, content: 《, id: KR1f0001_tls_016-bkkpn28}
+  - {type: punctuation, offset: 99, content: 》, id: KR1f0001_tls_016-bkkpn29}
+  - {type: punctuation, offset: 100, content: ：, id: KR1f0001_tls_016-bkkpn30}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR1f0001_tls_016-1a.26}
+  - {type: punctuation, offset: 100, content: 『, id: KR1f0001_tls_016-bkkpn31}
+  - {type: punctuation, offset: 104, content: 。, id: KR1f0001_tls_016-bkkpn32}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR1f0001_tls_016-1a.27}
+  - {type: punctuation, offset: 108, content: 。, id: KR1f0001_tls_016-bkkpn33}
+  - {type: 'tls:seg', offset: 108, content: '', id: KR1f0001_tls_016-1a.28}
+  - {type: punctuation, offset: 112, content: 。, id: KR1f0001_tls_016-bkkpn34}
+  - {type: punctuation, offset: 112, content: 』, id: KR1f0001_tls_016-bkkpn35}
+  - {type: punctuation, offset: 112, content: 」, id: KR1f0001_tls_016-bkkpn36}
+  - {type: xml-element, offset: 112, content: '', id: KR1f0001_tls_016-bkkxmlele9, name: p, role: close}
+  - {type: xml-element, offset: 112, content: '', id: KR1f0001_tls_016-bkkxmlele10, name: p, role: open}
+  back: []
+hash: sha256:e50cdcc1160fb779128b701434d7073667789668180bf63ae389878cb3e660d6
