@@ -88,11 +88,10 @@ markers:
   - {type: punctuation, offset: 118, content: 『, id: KR1f0001_tls_001-bkkpn43}
   - {type: punctuation, offset: 122, content: 。, id: KR1f0001_tls_001-bkkpn44}
   - {type: 'tls:seg', offset: 122, content: '', id: KR1f0001_tls_001-1a.34}
-  - {type: substitution, offset: 123, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 126, content: 。, id: KR1f0001_tls_001-bkkpn45}
   - {type: punctuation, offset: 126, content: 』, id: KR1f0001_tls_001-bkkpn46}
   - {type: punctuation, offset: 126, content: 」, id: KR1f0001_tls_001-bkkpn47}
   - {type: xml-element, offset: 126, content: '', id: KR1f0001_tls_001-bkkxmlele10, name: p, role: close}
   - {type: xml-element, offset: 126, content: '', id: KR1f0001_tls_001-bkkxmlele11, name: p, role: open}
   back: []
-hash: sha256:26d811f54342a541e2817833644c38c67a696aef5e15f2d503c03eef8f6646db
+hash: sha256:243359c792e50ae3ff0cb2affe27479c48112e5cae8bae3acbbe41073b56522a
